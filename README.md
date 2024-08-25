@@ -4,12 +4,11 @@ A draw is an online drawing tool built-in using Next.js, Redux Toolkit for state
 
 ## Tech Stack
 
-- Next.js
-- Redux
-- Tailwind CSS
-- Node.js
-- Socket.io
-
+- Next.js: Frontend framework for server-rendered React applications.
+- Redux Toolkit: For managing and centralizing application state.
+- Tailwind CSS: Utility-first CSS framework for fast UI styling.
+- Node.js: JavaScript runtime for the backend.
+- Socket.io: Real-time bidirectional event-based communication.
 
 
 ## 🛠️ Local Development
@@ -38,3 +37,18 @@ npm start!
 
 
 ## 🥁 Features
+1. Real-Time Collaborative Drawing:
+- Multiple users can draw simultaneously on the same canvas, with live updates reflected instantly across all connected clients.
+
+2. Customizable Canvas:
+Users can adjust canvas size, background color, and grid lines to fit their drawing needs.
+
+3. Tool Palette:
+A variety of drawing tools such as pen, brush, eraser, shape tools (e.g., lines, rectangles, circles), and text insertion.
+Color picker and adjustable brush sizes for more detailed work.
+
+4. Undo/Redo Functionality:
+Users can easily correct mistakes with undo and redo options, supporting multiple steps backward or forward.
+
+5. Responsive Design:
+The application is optimized for use on various devices, including desktops, tablets, and mobile phones.
