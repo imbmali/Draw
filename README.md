@@ -38,17 +38,17 @@ npm start!
 
 ## 🥁 Features
 1. Real-Time Collaborative Drawing:
-- Multiple users can draw simultaneously on the same canvas, with live updates reflected instantly across all connected clients.
+Multiple users can draw simultaneously on the same canvas, with live updates reflected instantly across all connected clients.
 
-2. Customizable Canvas:
+3. Customizable Canvas:
 Users can adjust canvas size, background color, and grid lines to fit their drawing needs.
 
-3. Tool Palette:
+4. Tool Palette:
 A variety of drawing tools such as pen, brush, eraser, shape tools (e.g., lines, rectangles, circles), and text insertion.
 Color picker and adjustable brush sizes for more detailed work.
 
-4. Undo/Redo Functionality:
+5. Undo/Redo Functionality:
 Users can easily correct mistakes with undo and redo options, supporting multiple steps backward or forward.
 
-5. Responsive Design:
+6. Responsive Design:
 The application is optimized for use on various devices, including desktops, tablets, and mobile phones.
